@@ -83,7 +83,7 @@ public class CommentCodec extends BeanCodec<Comment> {
 org:
   mongo:
     uri: mongodb://localhost:12017/mdb58_chr_comment?replicaSet=28034&authSource=admin&journal=true
-    name: mdb58_chr_comment
+    name: comment
     codec-package: org.mongo.spring.boot
 ```
 
