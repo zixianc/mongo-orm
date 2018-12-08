@@ -1,5 +1,5 @@
-# hprose-spring-boot-starter
-mongo-orm-starter,基于javax.persistence规范实现字段的映射和集合的映射，借助mogodb-java-client提供的默认DocumentCodec实现自定义解码器的功能
+# spring-boot-starter-mongo
+mongo-orm-starter,基于javax.persistence规范实现字段的映射和集合的映射，借助mogodb-java-driver提供的默认DocumentCodec实现自定义解码器的功能
 
 * 驼峰字段自动映射  
 在业务中我们通常会把实体的字段声明成驼峰形式，而表结构会设计成小写字母和下滑线的形式，要做到字段的关联就需要手动做一个字段的映射，mongo-orm会自动映射驼峰字段
