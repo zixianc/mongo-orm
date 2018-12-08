@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+org.mongo.spring.boot.autoconfigure.MongoAutoConfiguration
