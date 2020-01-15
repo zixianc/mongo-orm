@@ -2,7 +2,6 @@ package top.newleaf.mongo.factory;
 
 /**
  * @author chengshx
- * @date 2020/1/9
  */
 public class MongoConnection {
 

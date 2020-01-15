@@ -11,7 +11,6 @@ import java.util.Set;
 
 /**
  * @author chengshx
- * @date 2020/1/9
  */
 public class BeanCodecScanAction implements IScanAction {
 

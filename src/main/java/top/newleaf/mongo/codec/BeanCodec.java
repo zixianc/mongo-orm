@@ -21,7 +21,6 @@ import java.util.Map;
 
 /**
  * @author chengshx
- * @date 2018/11/25
  */
 public class BeanCodec<T> implements CollectibleCodec<T> {
 

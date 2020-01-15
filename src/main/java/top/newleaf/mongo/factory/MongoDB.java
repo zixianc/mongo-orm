@@ -6,7 +6,6 @@ import org.bson.Document;
 
 /**
  * @author chengshx
- * @date 2019/7/15
  */
 public class MongoDB {
 
@@ -65,6 +64,7 @@ public class MongoDB {
     /**
      * 获取自定义解析器集合
      *
+     * @param collName
      * @param clazz
      * @return
      */

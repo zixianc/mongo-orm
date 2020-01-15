@@ -22,7 +22,6 @@ import java.util.concurrent.ConcurrentHashMap;
 
 /**
  * @author chengshx
- * @date 2018年4月10日
  */
 public class MongoFactory {
 
