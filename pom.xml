@@ -8,6 +8,7 @@
     <version>1.0.0</version>
 
     <name>mongo-orm</name>
+    <description>mongoDB中实体和collection的映射</description>
     <url>https://github.com/zixianc/mongo-orm</url>
 
     <properties>
@@ -57,6 +58,14 @@
       <tag>HEAD</tag>
   </scm>
 
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+            <distribution>repo</distribution>
+            <comments>A business-friendly OSS license</comments>
+        </license>
+    </licenses>
 
     <developers>
         <developer>
@@ -66,7 +75,7 @@
     </developers>
 
     <build>
-        <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
+        <pluginManagement>
             <plugins>
                 <plugin>
                     <artifactId>maven-source-plugin</artifactId>
