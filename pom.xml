@@ -6,6 +6,7 @@
     <groupId>top.newleaf</groupId>
     <artifactId>mongo-orm</artifactId>
     <version>1.0.0</version>
+    <packaging>jar</packaging>
 
     <name>mongo-orm</name>
     <description>mongoDB中实体和collection的映射</description>
