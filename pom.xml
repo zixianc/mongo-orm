@@ -69,7 +69,7 @@
         <pluginManagement><!-- lock down plugins versions to avoid using Maven defaults (may be moved to parent pom) -->
             <plugins>
                 <plugin>
-                    <artifactId>maven-resources-plugin</artifactId>
+                    <artifactId>maven-source-plugin</artifactId>
                     <version>3.0.2</version>
                     <executions>
                         <execution>
